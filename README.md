@@ -1,7 +1,6 @@
 ### Hi there, I'm [NAZMUS SAKIB](https://nazmus-sakibb.netlify.app/) 👋
 
 ## I'm a 😍😍 Web Developer 😍😍!!
-<hr/>
 - 🌱 I’m currently learning more about JavaScript and React
 - 💬 Ask me about programming
 - 📫 How to reach me: [Twitter - @nazmus_sakibb](https://twitter.com/nazmus_sakibb)
@@ -47,34 +46,11 @@
 
 
 
-
-
-
-
-
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
-
 [![Website](https://img.shields.io/website?label=nazmus-sakibb.netlify.app&style=for-the-badge&url=https%3A%2F%2Fnazmus-sakibb.netlify.app)](https://nazmus-sakibb.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nazmus_sakibb?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%nazmus_sakibb&screen_name=nazmus_sakibb)
 
 
 
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[website]: https://nazmus-sakibb.netlify.app
+[twitter]: https://twitter.com/nazmus_sakibb
 [linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
